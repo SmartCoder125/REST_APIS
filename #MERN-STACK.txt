@@ -1,0 +1,58 @@
+// NODE JS COMPLETE
+
+✅  Modules:
+    NPM MODULE
+    LOCAL MODULE
+
+  👉 Path module
+  👉 Fs module
+  👉 Os module
+  👉 Events module
+  👉 Http module
+
+✅  How to create a server 
+✅  How to handle different urls 
+✅  How send proper response
+✅  How to edit response headers
+✅  How to load stylesheets and js files from public folder
+And finally we will create a small website with 2 pages. We will be using Bootswatch for our frontend part. 
+
+
+
+// EXPRESS JS COMPLETE
+
+1. Router
+2. Middlewares
+3. Template engine ( EJS )
+4. Error handling
+5. Rest APIs using Express Js
+6. Mini Project using React JS
+
+
+// MONGO DB COMPLETE
+
+1. DB crud operations
+2. Indexes
+3. Access Control
+4. Integration with Node JS 
+5. Cloud DB ( Atlas )
+6. Compass for the Mongo DB
+
+
+// REACT JS COMPLETE WITH PROJECT
+
+Timestamps:-
+0:00:00  - Intro
+0:02:26  - Project setup
+0:07:00  - Folder structure
+0:29:42  - Router
+0:55:29  - Start Home page
+1:29:24  - Product list
+2:41:58  - Add to cart
+3:40:17  - Cart page
+4:06:52  - Increment item 
+4:12:25  - Decrement item
+4:30:30  - Delete item 
+4:39:20  - handle order now
+4:49:55  - Wrap up
+
